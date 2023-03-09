@@ -1,0 +1,75 @@
+Namespace(dataset='util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='hh', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='shp', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='shp', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='sth', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='shp', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='shp', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False)
+Namespace(dataset='shp', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=True)
+Namespace(dataset='util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='shp', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=True)
+Namespace(dataset='util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='shp', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=True)
+Namespace(dataset='shp', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=True)
+Final test acc: 0.826
+
+Final test hard acc: 0.684
+
+Run 0 test hard acc: 0.684 test acc: 0.826
+Namespace(dataset='util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.821
+
+Final test hard acc: 0.686
+
+Run 0 test hard acc: 0.686 test acc: 0.821
+Namespace(dataset='util', generated_data=True, model='deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='util', generated_data=True, model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='generated_util', generated_data=False, model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='generated_util', generated_data=False, model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='generated_util', generated_data=False, model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=False, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.660
+
+Final test hard acc: 0.520
+
+Run 0 test hard acc: 0.520 test acc: 0.660
+Namespace(dataset='generated_util', generated_data=False, model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.580
+
+Final test hard acc: 0.540
+
+Run 0 test hard acc: 0.540 test acc: 0.580
+Namespace(dataset='generated_util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.560
+
+Final test hard acc: 0.510
+
+Run 0 test hard acc: 0.510 test acc: 0.560

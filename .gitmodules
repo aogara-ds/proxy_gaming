@@ -1,0 +1,6 @@
+[submodule "trlx"]
+	path = trlx
+	url = ./trlx
+[submodule "ICE"]
+	path = ICE
+	url = ./ICE
