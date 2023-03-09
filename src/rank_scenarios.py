@@ -17,7 +17,9 @@ def load_model(model_name: str, device: torch.device, checkpoint: str = None) ->
 
     # Load pretrained checkpoint if available
     if checkpoint:
-        model.load_state_dict(torch.load(checkpoint, map_location="cpu"), strict=False)
+        model.load_state_dict(torch.load(checkpoint))
+        # Not sure what these options are for
+        # model.load_state_dict(torch.load(checkpoint, map_location="cpu"), strict=False)
 
     return model
 
@@ -37,7 +39,7 @@ def get_score(text, model, tokenizer, device):
     encodings_dict = tokenizer(
         text,
         truncation=True,
-        max_length=tokenizer.model_max_length, 
+        max_length=512, 
         padding=True,
         return_tensors="pt",
     )
