@@ -1,0 +1,70 @@
+Namespace(dataset='generated_util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+models: ['bert-base-uncased', 'bert-large-uncased', 'roberta-large', 'albert-xxlarge-v2'], lrs: [1e-05, 3e-05], batch_sizes: [8, 16], epochs: [2, 4]
+Namespace(dataset='generated_util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+models: ['bert-base-uncased', 'bert-large-uncased', 'roberta-large', 'albert-xxlarge-v2'], lrs: [1e-05, 3e-05], batch_sizes: [8, 16], epochs: [2, 4]
+Namespace(dataset='generated_util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+models: ['bert-base-uncased', 'bert-large-uncased', 'roberta-large', 'albert-xxlarge-v2'], lrs: [1e-05, 3e-05], batch_sizes: [8, 16], epochs: [2, 4]
+model: bert-base-uncased, lr: 1e-05, batch_size: 8, nepoch: 2.
+ test hard accuracy: 0.310, test accuracy: 0.900
+model: bert-base-uncased, lr: 1e-05, batch_size: 8, nepoch: 4.
+ test hard accuracy: 0.380, test accuracy: 0.900
+model: bert-base-uncased, lr: 1e-05, batch_size: 16, nepoch: 2.
+ test hard accuracy: 0.310, test accuracy: 0.880
+model: bert-base-uncased, lr: 1e-05, batch_size: 16, nepoch: 4.
+ test hard accuracy: 0.390, test accuracy: 0.890
+model: bert-base-uncased, lr: 3e-05, batch_size: 8, nepoch: 2.
+ test hard accuracy: 0.380, test accuracy: 0.890
+model: bert-base-uncased, lr: 3e-05, batch_size: 8, nepoch: 4.
+ test hard accuracy: 0.440, test accuracy: 0.860
+model: bert-base-uncased, lr: 3e-05, batch_size: 16, nepoch: 2.
+ test hard accuracy: 0.320, test accuracy: 0.930
+model: bert-base-uncased, lr: 3e-05, batch_size: 16, nepoch: 4.
+ test hard accuracy: 0.380, test accuracy: 0.880
+model: bert-large-uncased, lr: 1e-05, batch_size: 8, nepoch: 2.
+ test hard accuracy: 0.380, test accuracy: 0.940
+model: bert-large-uncased, lr: 1e-05, batch_size: 8, nepoch: 4.
+ test hard accuracy: 0.350, test accuracy: 0.910
+model: bert-large-uncased, lr: 1e-05, batch_size: 16, nepoch: 2.
+ test hard accuracy: 0.330, test accuracy: 0.930
+model: bert-large-uncased, lr: 1e-05, batch_size: 16, nepoch: 4.
+ test hard accuracy: 0.370, test accuracy: 0.900
+model: bert-large-uncased, lr: 3e-05, batch_size: 8, nepoch: 2.
+ test hard accuracy: 0.540, test accuracy: 0.430
+model: bert-large-uncased, lr: 3e-05, batch_size: 8, nepoch: 4.
+ test hard accuracy: 0.340, test accuracy: 0.580
+model: bert-large-uncased, lr: 3e-05, batch_size: 16, nepoch: 2.
+ test hard accuracy: 0.310, test accuracy: 0.960
+model: bert-large-uncased, lr: 3e-05, batch_size: 16, nepoch: 4.
+ test hard accuracy: 0.440, test accuracy: 0.910
+model: roberta-large, lr: 1e-05, batch_size: 8, nepoch: 2.
+ test hard accuracy: 0.410, test accuracy: 0.950
+model: roberta-large, lr: 1e-05, batch_size: 8, nepoch: 4.
+ test hard accuracy: 0.430, test accuracy: 0.900
+model: roberta-large, lr: 1e-05, batch_size: 16, nepoch: 2.
+ test hard accuracy: 0.440, test accuracy: 0.930
+model: roberta-large, lr: 1e-05, batch_size: 16, nepoch: 4.
+ test hard accuracy: 0.380, test accuracy: 0.970
+model: roberta-large, lr: 3e-05, batch_size: 8, nepoch: 2.
+ test hard accuracy: 0.340, test accuracy: 0.560
+model: roberta-large, lr: 3e-05, batch_size: 8, nepoch: 4.
+ test hard accuracy: 0.340, test accuracy: 0.530
+model: roberta-large, lr: 3e-05, batch_size: 16, nepoch: 2.
+ test hard accuracy: 0.420, test accuracy: 0.910
+model: roberta-large, lr: 3e-05, batch_size: 16, nepoch: 4.
+ test hard accuracy: 0.540, test accuracy: 0.300
+model: albert-xxlarge-v2, lr: 1e-05, batch_size: 8, nepoch: 2.
+ test hard accuracy: 0.270, test accuracy: 0.900
+model: albert-xxlarge-v2, lr: 1e-05, batch_size: 8, nepoch: 4.
+ test hard accuracy: 0.360, test accuracy: 0.940
+model: albert-xxlarge-v2, lr: 1e-05, batch_size: 16, nepoch: 2.
+ test hard accuracy: 0.320, test accuracy: 0.930
+model: albert-xxlarge-v2, lr: 1e-05, batch_size: 16, nepoch: 4.
+ test hard accuracy: 0.290, test accuracy: 0.920
+model: albert-xxlarge-v2, lr: 3e-05, batch_size: 8, nepoch: 2.
+ test hard accuracy: 0.250, test accuracy: 0.200
+model: albert-xxlarge-v2, lr: 3e-05, batch_size: 8, nepoch: 4.
+ test hard accuracy: 0.250, test accuracy: 0.800
+model: albert-xxlarge-v2, lr: 3e-05, batch_size: 16, nepoch: 2.
+ test hard accuracy: 0.240, test accuracy: 0.940
+model: albert-xxlarge-v2, lr: 3e-05, batch_size: 16, nepoch: 4.
+ test hard accuracy: 0.270, test accuracy: 0.900

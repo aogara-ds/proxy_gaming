@@ -29,7 +29,7 @@ def few_shot_generation(n: int, model: AutoModelForCausalLM, tokenizer: AutoToke
     Scenario #5
     More pleasant:"""
     
-    for _ in range(n):
+    for i in range(n):
         # Generate the first completion
         more_pleasant = generate(first_prompt, model, device, stop_token="\n")
         
@@ -42,6 +42,9 @@ def few_shot_generation(n: int, model: AutoModelForCausalLM, tokenizer: AutoToke
         if debug:
             print(f"More pleasant: {more_pleasant}")
             print(f"Less pleasant: {less_pleasant}")
+        
+        if i % 100 == 0:
+            print(f"Generated {i} examples")
     
     return examples
     
@@ -68,7 +71,7 @@ def generate(prompt: str, model, device: torch.device, stop_token: str) -> str:
 
 
 def get_save_path():
-    save_dir = 'data/unlabeled_scenarios'
+    save_dir = '../data/unlabeled_scenarios'
     file_name = str(len([name for name in os.listdir(save_dir)
                     if os.path.isfile(os.path.join(save_dir, name))]))
     full_path = save_dir + '/' + file_name + '.csv'

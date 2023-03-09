@@ -73,3 +73,210 @@ Final test acc: 0.560
 Final test hard acc: 0.510
 
 Run 0 test hard acc: 0.510 test acc: 0.560
+Namespace(dataset='hh', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='generated_util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.930
+
+Final test hard acc: 0.330
+
+Run 0 test hard acc: 0.330 test acc: 0.930
+Namespace(dataset='generated_util', model='microsoft/deberta-v3-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=False, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.950
+
+Final test hard acc: 0.420
+
+Run 0 test hard acc: 0.420 test acc: 0.950
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.900
+
+Final test hard acc: 0.310
+
+Run 0 test hard acc: 0.310 test acc: 0.900
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=4, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.900
+
+Final test hard acc: 0.380
+
+Run 0 test hard acc: 0.380 test acc: 0.900
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.880
+
+Final test hard acc: 0.310
+
+Run 0 test hard acc: 0.310 test acc: 0.880
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=4, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.890
+
+Final test hard acc: 0.390
+
+Run 0 test hard acc: 0.390 test acc: 0.890
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.890
+
+Final test hard acc: 0.380
+
+Run 0 test hard acc: 0.380 test acc: 0.890
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=4, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.860
+
+Final test hard acc: 0.440
+
+Run 0 test hard acc: 0.440 test acc: 0.860
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.930
+
+Final test hard acc: 0.320
+
+Run 0 test hard acc: 0.320 test acc: 0.930
+Namespace(dataset='generated_util', model='bert-base-uncased', ngpus=2, nepochs=4, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.880
+
+Final test hard acc: 0.380
+
+Run 0 test hard acc: 0.380 test acc: 0.880
+Namespace(dataset='generated_util', model='bert-large-uncased', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.940
+
+Final test hard acc: 0.380
+
+Run 0 test hard acc: 0.380 test acc: 0.940
+Namespace(dataset='generated_util', model='bert-large-uncased', ngpus=2, nepochs=4, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.910
+
+Final test hard acc: 0.350
+
+Run 0 test hard acc: 0.350 test acc: 0.910
+Namespace(dataset='generated_util', model='bert-large-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.930
+
+Final test hard acc: 0.330
+
+Run 0 test hard acc: 0.330 test acc: 0.930
+Namespace(dataset='generated_util', model='bert-large-uncased', ngpus=2, nepochs=4, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.900
+
+Final test hard acc: 0.370
+
+Run 0 test hard acc: 0.370 test acc: 0.900
+Namespace(dataset='generated_util', model='bert-large-uncased', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.430
+
+Final test hard acc: 0.540
+
+Run 0 test hard acc: 0.540 test acc: 0.430
+Namespace(dataset='generated_util', model='bert-large-uncased', ngpus=2, nepochs=4, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.580
+
+Final test hard acc: 0.340
+
+Run 0 test hard acc: 0.340 test acc: 0.580
+Namespace(dataset='generated_util', model='bert-large-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.960
+
+Final test hard acc: 0.310
+
+Run 0 test hard acc: 0.310 test acc: 0.960
+Namespace(dataset='generated_util', model='bert-large-uncased', ngpus=2, nepochs=4, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.910
+
+Final test hard acc: 0.440
+
+Run 0 test hard acc: 0.440 test acc: 0.910
+Namespace(dataset='generated_util', model='roberta-large', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.950
+
+Final test hard acc: 0.410
+
+Run 0 test hard acc: 0.410 test acc: 0.950
+Namespace(dataset='generated_util', model='roberta-large', ngpus=2, nepochs=4, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.900
+
+Final test hard acc: 0.430
+
+Run 0 test hard acc: 0.430 test acc: 0.900
+Namespace(dataset='generated_util', model='roberta-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.930
+
+Final test hard acc: 0.440
+
+Run 0 test hard acc: 0.440 test acc: 0.930
+Namespace(dataset='generated_util', model='roberta-large', ngpus=2, nepochs=4, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.970
+
+Final test hard acc: 0.380
+
+Run 0 test hard acc: 0.380 test acc: 0.970
+Namespace(dataset='generated_util', model='roberta-large', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.560
+
+Final test hard acc: 0.340
+
+Run 0 test hard acc: 0.340 test acc: 0.560
+Namespace(dataset='generated_util', model='roberta-large', ngpus=2, nepochs=4, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.530
+
+Final test hard acc: 0.340
+
+Run 0 test hard acc: 0.340 test acc: 0.530
+Namespace(dataset='generated_util', model='roberta-large', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.910
+
+Final test hard acc: 0.420
+
+Run 0 test hard acc: 0.420 test acc: 0.910
+Namespace(dataset='generated_util', model='roberta-large', ngpus=2, nepochs=4, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.300
+
+Final test hard acc: 0.540
+
+Run 0 test hard acc: 0.540 test acc: 0.300
+Namespace(dataset='generated_util', model='albert-xxlarge-v2', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.900
+
+Final test hard acc: 0.270
+
+Run 0 test hard acc: 0.270 test acc: 0.900
+Namespace(dataset='generated_util', model='albert-xxlarge-v2', ngpus=2, nepochs=4, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.940
+
+Final test hard acc: 0.360
+
+Run 0 test hard acc: 0.360 test acc: 0.940
+Namespace(dataset='generated_util', model='albert-xxlarge-v2', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.930
+
+Final test hard acc: 0.320
+
+Run 0 test hard acc: 0.320 test acc: 0.930
+Namespace(dataset='generated_util', model='albert-xxlarge-v2', ngpus=2, nepochs=4, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=1e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.920
+
+Final test hard acc: 0.290
+
+Run 0 test hard acc: 0.290 test acc: 0.920
+Namespace(dataset='generated_util', model='albert-xxlarge-v2', ngpus=2, nepochs=2, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.200
+
+Final test hard acc: 0.250
+
+Run 0 test hard acc: 0.250 test acc: 0.200
+Namespace(dataset='generated_util', model='albert-xxlarge-v2', ngpus=2, nepochs=4, batch_size=8, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.800
+
+Final test hard acc: 0.250
+
+Run 0 test hard acc: 0.250 test acc: 0.800
+Namespace(dataset='generated_util', model='albert-xxlarge-v2', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.940
+
+Final test hard acc: 0.240
+
+Run 0 test hard acc: 0.240 test acc: 0.940
+Namespace(dataset='generated_util', model='albert-xxlarge-v2', ngpus=2, nepochs=4, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=3e-05, verbose=False, nruns=1, grid_search=True, save=True, custom_tokens=None, dropout=0.0, freeze_base=False, filter_max_len=False)
+Final test acc: 0.900
+
+Final test hard acc: 0.270
+
+Run 0 test hard acc: 0.270 test acc: 0.900
